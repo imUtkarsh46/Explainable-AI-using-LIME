@@ -16,13 +16,13 @@ There are several techniques that can be used to make artificial intelligence (A
 
 Feature importance analysis: This involves analyzing the input features that were most important in making a particular prediction. For example, in a medical diagnosis application, feature importance analysis might reveal that certain symptoms were most important in predicting a particular disease.
 
-Decision tree visualization: Decision trees are a type of AI model that can be used to make predictions based on a series of decisions. Decision tree visualization involves visualizing the decision-making process in a tree-like structure, which can help to make the model more interpretable.
+01. Decision tree visualization: Decision trees are a type of AI model that can be used to make predictions based on a series of decisions. Decision tree visualization involves visualizing the decision-making process in a tree-like structure, which can help to make the model more interpretable.
 
-Rule extraction: Rule extraction involves identifying the rules or decision criteria that the AI system used to make a particular prediction. For example, a rule-based AI system might use the following rule to predict whether a patient has a certain disease: "If the patient has symptom X and symptom Y, then they are likely to have the disease."
+02. Rule extraction: Rule extraction involves identifying the rules or decision criteria that the AI system used to make a particular prediction. For example, a rule-based AI system might use the following rule to predict whether a patient has a certain disease: "If the patient has symptom X and symptom Y, then they are likely to have the disease."
 
-Local explanation methods: Local explanation methods provide explanations for individual predictions made by the AI system. For example, a local explanation method might show the specific input features that contributed to a particular prediction, and how much each feature influenced the prediction.
+03. Local explanation methods: Local explanation methods provide explanations for individual predictions made by the AI system. For example, a local explanation method might show the specific input features that contributed to a particular prediction, and how much each feature influenced the prediction.
 
-Saliency maps: Saliency maps are graphical representations of the input features that most influenced a particular prediction made by an AI system. They can be used to highlight the parts of an image or text that were most important in making the prediction.
+04. Saliency maps: Saliency maps are graphical representations of the input features that most influenced a particular prediction made by an AI system. They can be used to highlight the parts of an image or text that were most important in making the prediction.
 
 By using these and other techniques, it is possible to make AI systems more explainable and interpretable, so that their decision-making process can be understood by humans.
 
